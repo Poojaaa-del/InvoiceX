@@ -24,7 +24,6 @@ Thumbs.db
 *.pyo
 
 # Model files
-*.pkl
 *.joblib
 
 # Database
