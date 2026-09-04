@@ -16,7 +16,7 @@ from inference.predict_invoice_flag import predict_invoice_flag
 # ---------------------------------------------------------
 st.set_page_config(
     page_title="InvoiceX",
-    page_icon="📦",
+    page_icon="🧾",
     layout="wide",
     initial_sidebar_state="expanded"
 )
